@@ -1,0 +1,23 @@
+ISim log file
+Running: C:\.Xilinx\fsm\atmtest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/.Xilinx/fsm/atmtest_isim_beh.wdb 
+ISim P.58f (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0IC=0,CS=0,blance=00,pin=00,entered_pin=00,ammount_entered=00,OP=00,MT=0,y0=1,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                  50IC=0,CS=0,blance=11,pin=11,entered_pin=00,ammount_entered=00,OP=00,MT=0,y0=1,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 100IC=1,CS=0,blance=11,pin=11,entered_pin=00,ammount_entered=00,OP=00,MT=0,y0=0,y1=1,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 150IC=1,CS=1,blance=11,pin=11,entered_pin=00,ammount_entered=00,OP=00,MT=0,y0=0,y1=0,y2=1,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 200IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=00,OP=00,MT=0,y0=0,y1=0,y2=1,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 250IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=00,OP=11,MT=0,y0=0,y1=0,y2=0,y3=1,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 300IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=0,y0=0,y1=0,y2=0,y3=1,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+                 350IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=0,y0=0,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=1,y8=0,y9=0,y10=0,y11=0
+                 450IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=0,y0=0,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=1,y11=0
+                 550IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=0,y0=0,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=1
+                 600IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=1,y0=0,y1=0,y2=0,y3=0,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=1
+                 650IC=1,CS=1,blance=11,pin=11,entered_pin=11,ammount_entered=11,OP=11,MT=1,y0=0,y1=0,y2=0,y3=1,y4=0,y5=0,y6=0,y7=0,y8=0,y9=0,y10=0,y11=0
+Stopped at time : 700 ns : File "C:/.Xilinx/fsm/atmtest.v" Line 233
